@@ -19,7 +19,7 @@
     "detail": "A very simple salary converting web app equipped with dollar formatting feature.",
     "builtWith": ["React", "JS"],
     "view": {
-      "live": "https://www.salaryconverter.app",
+      "live": "https://www.salarywage.app",
       "repo": null
     }
   },
